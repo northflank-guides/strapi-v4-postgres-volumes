@@ -1,6 +1,6 @@
 # Strapi v4 with Postgres and Volumes on Northflank
 
-Fork this repository to create your Strapi v4 deployment. Configuration data will be stored in a PostgreSQL database and media uploads will use Northflank persistent volumes. Follow (our guide)[https://northflank.com/guides/deploying-strapi-with-postgresql-and-volumes] to deploy on Northflank.
+Fork this repository to create your Strapi v4 deployment. Configuration data will be stored in a PostgreSQL database and media uploads will use Northflank persistent volumes. Follow [our guide](https://northflank.com/guides/deploying-strapi-with-postgresql-and-volumes) to deploy on Northflank.
 
 # 🚀 Getting started with Strapi
 
